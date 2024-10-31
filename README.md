@@ -1,2 +1,0 @@
-# mencion
-mi proyecto  web
